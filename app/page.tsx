@@ -3,7 +3,7 @@
 import React, { useState, useCallback } from 'react';
 import AlertDialog from "@/components/ui/alertdialog";
 import Button from "@/components/ui/Button";
-import { Wallet, Gift, Search, CreditCard, IndianRupee, Trophy, Ticket, PlayCircle, Pizza, Coffee, ShoppingBag } from 'lucide-react';
+import { Wallet, Search, CreditCard, IndianRupee, Trophy, PlayCircle, Pizza, Coffee, ShoppingBag } from 'lucide-react';
 import Image from 'next/image';
 
 interface Reward {
